@@ -35,3 +35,5 @@ Carthage/Build
 # Project files
 
 Calculator.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+
+.DS_Store
